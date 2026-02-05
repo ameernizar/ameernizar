@@ -51,11 +51,6 @@ Currently strengthening fundamentals and planning to start building real-world p
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ameernizar&show_icons=true)
-
----
 
 ## 🌐 Connect With Me
 
