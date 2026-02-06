@@ -37,8 +37,8 @@ Currently focusing on building strong programming fundamentals before moving int
 
 ## 📚 Learning Roadmap
 
-- Object Oriented Programming
 - Data Structures & Algorithms
+- Object Oriented Programming
 - Frontend Development (React)
 - Backend Development
 - Cybersecurity Fundamentals
