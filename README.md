@@ -22,7 +22,8 @@ Currently focusing on building strong programming fundamentals before moving int
 ## ⚙️ Tech Stack
 
 ### Languages
-- C 
+- C
+- Html,css
 - Java (Basics)
 - Python 
 - SQL
@@ -46,6 +47,8 @@ Currently focusing on building strong programming fundamentals before moving int
 ---
 
 ## 🚧 Projects
+
+- Weather_advisor webapp (https://github.com/ameernizar/weather_advisor)
 
 Currently strengthening fundamentals and planning to start building real-world projects soon.
 
