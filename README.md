@@ -49,6 +49,7 @@ Currently focusing on building strong programming fundamentals before moving int
 ## 🚧 Projects
 
 - Weather_advisor webapp (https://github.com/ameernizar/weather_advisor)
+- Implemented a Trie-based Autocomplete search model in Python for efficient prefix search operations.
 
 Currently strengthening fundamentals and planning to start building real-world projects soon.
 
